@@ -37,7 +37,7 @@
 
 💼 **10+ years in Automation**
 
-🔭 Currently working on **[Shrividya](https://github.com/Shrividya/Shrividya)**
+🔭 Currently working on **[Terraform Projects](https://github.com/Shrividya/TerraformProjects)**
 
 🌱 Currently learning **RAGs, Agentic AI**
 
