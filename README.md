@@ -168,7 +168,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Shrividya/Shrividya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=Shrividya&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Shrividya"/></a>
 <a href="https://github.com/Shrividya/SentimentAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=SentimentAnalysis&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="SentimentAnalysis"/></a>
 
 </div>
