@@ -185,14 +185,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://github.com/Shrividya/Shrividya"><b>Shrividya</b></a></td>
-<td>My GitHub Profile README</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/Shrividya/SentimentAnalysis"><b>SentimentAnalysis</b></a></td>
 <td>Practice project for Sentiment Analysis using Python</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
