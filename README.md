@@ -47,7 +47,7 @@
 
 ⚡ Fun fact: **I used to write test scripts; now I write AI scripts that write scripts.**
 
-📦 **2** repositories
+📦 **3** repositories
 
 <br clear="right"/>
 
@@ -170,6 +170,8 @@
 
 <a href="https://github.com/Shrividya/SentimentAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=SentimentAnalysis&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="SentimentAnalysis"/></a>
 
+<a href="https://github.com/Shrividya/OpenAISampleProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=OpenAISampleProject&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="OpenAISampleProject"/></a>
+
 </div>
 
 ### 📊 Top Repositories
@@ -191,11 +193,24 @@
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
+<td><a href="https://github.com/Shrividya/probably-data"><b>Probably-Data</b></a></td>
+<td>Project related to working with embeddings</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+</tr>
+<td><a href="https://github.com/Shrividya/OpenAISampleProject"><b>OpenAISampleProject</b></a></td>
+<td>Sample project for a chatbot development</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+</tr>
 </tbody>
 </table>
 
+
 <p align="center">
-  <i>💡 Total of <b>2</b> repositories</i>
+  <i>💡 Total of <b>3</b> repositories</i>
 </p>
 
 
@@ -225,7 +240,7 @@
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-2-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-3-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
