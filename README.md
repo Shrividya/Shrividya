@@ -78,7 +78,7 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrividya&theme=merko&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-trophies.vercel.app/?username=Shrividya" alt="Trophy"/>
 </div>
 
 ---
