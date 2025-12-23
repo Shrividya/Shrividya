@@ -27,7 +27,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
@@ -168,9 +168,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Shrividya/SentimentAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=SentimentAnalysis&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="SentimentAnalysis"/></a>
-
-<a href="https://github.com/Shrividya/OpenAISampleProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=OpenAISampleProject&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="OpenAISampleProject"/></a>
+<a href="https://github.com/Shrividya/OpenAISampleProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=OpenAISampleProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="OpenAISampleProject"/></a>
+<a href="https://github.com/Shrividya/probably-data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=probably-data&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="probably-data"/></a>
+<a href="https://github.com/Shrividya/SentimentAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=SentimentAnalysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SentimentAnalysis"/></a>
 
 </div>
 
