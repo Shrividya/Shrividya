@@ -168,9 +168,20 @@
 
 <div align="center">
 
-<a href="https://github.com/Shrividya/OpenAISampleProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=OpenAISampleProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="OpenAISampleProject"/></a>
-<a href="https://github.com/Shrividya/probably-data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=probably-data&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="probably-data"/></a>
-<a href="https://github.com/Shrividya/SentimentAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrividya&repo=SentimentAnalysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SentimentAnalysis"/></a>
+### 🚀 OpenAISampleProject
+![Stars](https://img.shields.io/github/stars/Shrividya/OpenAISampleProject?style=flat)
+![Language](https://img.shields.io/github/languages/top/Shrividya/OpenAISampleProject)
+![Last Commit](https://img.shields.io/github/last-commit/Shrividya/OpenAISampleProject)
+
+🔗 https://github.com/Shrividya/OpenAISampleProject
+
+
+### 🚀 SentimentAnalysis
+![Stars](https://img.shields.io/github/stars/Shrividya/SentimentAnalysis?style=flat)
+![Language](https://img.shields.io/github/languages/top/Shrividya/SentimentAnalysis)
+![Last Commit](https://img.shields.io/github/last-commit/Shrividya/SentimentAnalysis)
+
+🔗 https://github.com/Shrividya/SentimentAnalysis
 
 </div>
 
