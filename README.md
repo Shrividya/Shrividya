@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Shrividya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=800&height=45&lines=10%20years%20in%20test%20%26%20data%20orchestration%20and%20automation%3B%20now%20working%20on%20Generative%20AI%20%26%20RAGs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=800&height=45&lines=12%20years%20of%20test%20%26%20data%20orchestration%20and%20automation%3B%20now%20working%20on%20Generative%20AI%20%26%20RAGs." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -29,7 +29,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<div align="right">
+  <img src="https://github-readme-stats-40thhvgjm-shrividya-hegdes-projects.vercel.app/api/top-langs?username=Shrividya" alt="Top Languages" width="320"/>
+</div>
+
 
 🏢 **Astronomer**
 
