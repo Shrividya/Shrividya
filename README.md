@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Shrividya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=800&height=45&lines=10%20years%20in%20test%20%26%20data%20orchestration%20and%20automation%3B%20now%20working%20on%20Generative%20AI%20%26%20RAGs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=800&height=45&lines=12%20years%20of%20test%20%26%20data%20orchestration%20and%20automation%3B%20now%20working%20on%20Generative%20AI%20%26%20RAGs." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
