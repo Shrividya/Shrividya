@@ -30,7 +30,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
 <div align="right">
-  <img src="https://github-readme-stats-40thhvgjm-shrividya-hegdes-projects.vercel.app/api/top-langs/?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+  <img src="https://github-readme-stats-40thhvgjm-shrividya-hegdes-projects.vercel.app/api/top-langs?username=Shrividya" alt="Top Languages" width="320"/>
 </div>
 
 
