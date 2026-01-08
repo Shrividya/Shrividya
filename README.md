@@ -29,11 +29,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<div align="right">
-  <img src="https://github-readme-stats-40thhvgjm-shrividya-hegdes-projects.vercel.app/api/top-langs?username=Shrividya" alt="Top Languages" width="320"/>
-</div>
-
-
 🏢 **Astronomer**
 
 📍 **NJ**
@@ -67,15 +62,18 @@
 
 
 ---
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff&langs_count=8"/>
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats-nine-henna-dzy5zi241l.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true" />
+
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats-nine-henna-dzy5zi241l.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
 </div>
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Shrividya&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
 </div>
 
@@ -83,6 +81,8 @@
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Shrividya" alt="Trophy"/>
 </div>
+
+
 
 ---
 
