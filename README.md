@@ -87,7 +87,49 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
-
+<table>
+<tr>
+<td valign="top" width="50%">
+<h3 align="center">📊 Data Engineering & Analytics</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="airflow"/>
+<img src="https://img.shields.io/badge/Astronomer-1E90FF?style=for-the-badge&logo=astronomer&logoColor=white" alt="astronomer"/>
+<img src="https://img.shields.io/badge/ClickHouse-FF6D00?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse"/>
+<img src="https://img.shields.io/badge/Databricks-F15C29?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks"/>
+<img src="https://img.shields.io/badge/Snowflake-009FE3?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake"/>
+<img src="https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"/>
+<img src="https://img.shields.io/badge/ETL-Purple?style=for-the-badge" alt="etl"/>
+<img src="https://img.shields.io/badge/DBT-FF4C00?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+<img src="https://img.shields.io/badge/Vectors-6A1B9A?style=for-the-badge" alt="vectors"/>
+<img src="https://img.shields.io/badge/Embeddings-8E24AA?style=for-the-badge" alt="embeddings"/>
+<img src="https://img.shields.io/badge/Data_Lakes-2E7D32?style=for-the-badge" alt="data lakes"/>
+<img src="https://img.shields.io/badge/Data_Warehousing-1976D2?style=for-the-badge" alt="data warehousing"/>
+</div>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">🤖 Machine Learning & Generative AI</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="genai"/>
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+<img src="https://img.shields.io/badge/LangChain-20B3D0?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+<img src="https://img.shields.io/badge/NLP-FF6600?style=for-the-badge" alt="nlp"/>
+<img src="https://img.shields.io/badge/Vectors-6A1B9A?style=for-the-badge" alt="vectors"/>
+<img src="https://img.shields.io/badge/Embeddings-8E24AA?style=for-the-badge" alt="embeddings"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" alt="transformers"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-9C27B0?style=for-the-badge" alt="prompt engineering"/>
+<img src="https://img.shields.io/badge/Generative_Models-1E88E5?style=for-the-badge" alt="generative models"/>
+<img src="https://img.shields.io/badge/LLMs-FF4081?style=for-the-badge" alt="llms"/>
+</div>
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td valign="top" width="33%">
