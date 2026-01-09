@@ -249,7 +249,7 @@
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
-<td><a href="https://github.com/Shrividya/probably-data"><b>Probably-Data</b></a></td>
+<td><a href="https://github.com/Shrividya/llm_aspects"><b>LLMLearnings</b></a></td>
 <td>Project related to working with embeddings</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
