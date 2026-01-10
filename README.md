@@ -74,7 +74,7 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Shrividya&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
