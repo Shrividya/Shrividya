@@ -35,8 +35,6 @@
 
 💼 **10+ years in Automation**
 
-🔭 Currently working on **[Terraform Projects](https://github.com/Shrividya/TerraformProjects)**
-
 🌱 Currently learning **RAGs, Agentic AI**
 
 💬 Ask me about **AI/ML, Test automation, Python, CI methods, Kubernetes and Docker**
