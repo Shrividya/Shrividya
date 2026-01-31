@@ -39,11 +39,13 @@
 
 💬 Ask me about **AI/ML, Test automation, Python, CI methods, Kubernetes and Docker**
 
-🎓 Certifications: **AWS Certified Cloud Practitioner, 3x Apache Airflow certified**
+🎓 Certifications: **AWS Certified Cloud Practitioner, 5x Apache Airflow certified**
 
-⚡ Fun fact: **I used to write test scripts; now I write AI scripts that write scripts.**
+💎 Memberships: Pro Member of **Women in Data** , member of **Women in Tech**
 
-📦 **3** repositories
+🏆 Recognitions: Astronomer Champion for Apache Airflow
+
+⚡ Fun fact: **Split between testing like an SDET, building data pipelines, and thinking in AI.**
 
 <br clear="right"/>
 
