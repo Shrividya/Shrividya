@@ -221,12 +221,12 @@
 
 <div align="center">
 
-### 🚀 OpenAISampleProject
-![Stars](https://img.shields.io/github/stars/Shrividya/OpenAISampleProject?style=flat)
-![Language](https://img.shields.io/github/languages/top/Shrividya/OpenAISampleProject)
-![Last Commit](https://img.shields.io/github/last-commit/Shrividya/OpenAISampleProject)
+### 🚀 Article Insights Pipeline
+![Stars](https://img.shields.io/github/stars/Shrividya/article-insights-pipeline?style=flat)
+![Language](https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline)
+![Last Commit](https://img.shields.io/github/last-commit/Shrividya/article-insights-pipeline)
 
-🔗 https://github.com/Shrividya/OpenAISampleProject
+🔗 https://github.com/Shrividya/article-insights-pipeline
 
 
 ### 🚀 SentimentAnalysis
@@ -257,8 +257,8 @@
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
-<td><a href="https://github.com/Shrividya/llm_aspects"><b>LLMLearnings</b></a></td>
-<td>Project related to working with embeddings</td>
+<td><a href="https://github.com/Shrividya/article-insights-pipeline"><b>Article Insights Pipeline </b></a></td>
+<td>Project that analyses medium articles using NLP</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
@@ -304,7 +304,7 @@
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-3-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-16-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
