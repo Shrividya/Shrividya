@@ -43,7 +43,7 @@
 
 💼 **10+ years in Automation**
 
-🌱 Currently learning **RAGs, Agentic AI**
+🌱 Currently learning **RAGs, Agentic AI, GoLang**
 
 💬 Ask me about **AI/ML, Test automation, Python, CI methods, Kubernetes and Docker**
 
