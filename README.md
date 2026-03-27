@@ -82,7 +82,9 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=radical&hide_border=true" 
+     alt="GitHub Streak" 
+     onerror="this.onerror=null;this.src='https://streak-stats.demolab.com/?user=Shrividya';" />
 </div>
 
 <!-- GitHub Trophies -->
