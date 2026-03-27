@@ -80,13 +80,6 @@
   <img height="180em" src="https://github-readme-stats-nine-henna-dzy5zi241l.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
 </div>
 
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=radical&hide_border=true" 
-     alt="GitHub Streak" 
-     onerror="this.onerror=null;this.src='https://streak-stats.demolab.com/?user=Shrividya';" />
-</div>
-
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Shrividya" alt="Trophy"/>
