@@ -53,8 +53,6 @@
 
 🏆 Recognitions: Astronomer Champion for Apache Airflow
 
-⚡ Fun fact: **Split between testing like an SDET, building data pipelines, and thinking in AI.**
-
 <br clear="right"/>
 
 
