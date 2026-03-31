@@ -41,7 +41,7 @@
 
 📍 **NJ**
 
-💼 **10+ years in Automation**
+💼 **10+ years experience in Software Engineering**
 
 🌱 Currently learning **RAGs, Agentic AI, GoLang**
 
@@ -51,7 +51,7 @@
 
 💎 Memberships: Pro Member of **Women in Data** , member of **Women in Tech**
 
-🏆 Recognitions: Astronomer Champion for Apache Airflow
+🏆 Recognitions: Astronomer Champion for Apache Airflow, Open source Contributor (Apache Airflow)
 
 <br clear="right"/>
 
