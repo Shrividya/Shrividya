@@ -262,12 +262,20 @@
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
+<td><a href="https://github.com/Shrividya/article-insights-pipeline/tree/main/rag_resume">
+ <b>Resume Analyser RAG</b></a></td>
+<td>RAG that answers questions based on the input resumes</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+</tr>
 </tbody>
 </table>
 
 
+
 <p align="center">
-  <i>💡 Total of <b>3</b> repositories</i>
+  <i>💡 Total of <b>4</b> repositories</i>
 </p>
 
 
