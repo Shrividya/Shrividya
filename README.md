@@ -272,7 +272,7 @@
 <td>RAG that answers questions based on the input resumes</td>
 <td><img src="https://img.shields.io/github/stars/Shrividya/article-insights-pipeline?style=flat-square&color=gold" alt="stars"/></td>
 <td><img src="https://img.shields.io/github/forks/Shrividya/article-insights-pipeline?style=flat-square&color=blue" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline?style=flat-square" alt="language"/></td>
 </tr>
 </tbody>
 </table>
