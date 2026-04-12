@@ -45,13 +45,13 @@
 
 🌱 Currently learning **RAGs, Agentic AI, GoLang**
 
-💬 Ask me about **AI/ML, Test automation, Python, CI methods, Kubernetes and Docker**
+💬 Ask me about **AI/ML, Automation, Python, CI methods, Kubernetes and Docker**
 
 🎓 Certifications: **AWS Certified Cloud Practitioner, 5x Apache Airflow certified**
 
-💎 Memberships: Pro Member of **Women in Data** , member of **Women in Tech**
+💎 Memberships: Chapter Lead for Parsippany/NJ chapter of **Women in Data**, member of **Women in Tech**
 
-🏆 Recognitions: Astronomer Champion for Apache Airflow, Open source Contributor (Apache Airflow)
+🏆 Recognitions: Astronomer Champion for Apache Airflow, Open source Contributor (Apache Airflow), Content Expert for Data Engineering Byte
 
 <br clear="right"/>
 
@@ -72,10 +72,15 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true&include_all_commits=true" />
 
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=merko&hide_border=true&background=0d1117&ring=abd200&fire=abd200&currStreakLabel=abd200" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
@@ -246,28 +251,28 @@
 <tbody>
 <td><a href="https://github.com/Shrividya/SentimentAnalysis"><b>SentimentAnalysis</b></a></td>
 <td>Practice project for Sentiment Analysis using Python</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/github/stars/Shrividya/SentimentAnalysis?style=flat-square&color=gold" alt="stars"/></td>
+<td><img src="https://img.shields.io/github/forks/Shrividya/SentimentAnalysis?style=flat-square&color=blue" alt="forks"/></td>
+<td><img src="https://img.shields.io/github/languages/top/Shrividya/SentimentAnalysis?style=flat-square" alt="language"/></td>
 </tr>
 <td><a href="https://github.com/Shrividya/article-insights-pipeline"><b>Article Insights Pipeline </b></a></td>
 <td>Project that analyses medium articles using NLP</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/github/stars/Shrividya/article-insights-pipeline?style=flat-square&color=gold" alt="stars"/></td>
+<td><img src="https://img.shields.io/github/forks/Shrividya/article-insights-pipeline?style=flat-square&color=blue" alt="forks"/></td>
+<td><img src="https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline?style=flat-square" alt="language"/></td>
 </tr>
 <td><a href="https://github.com/Shrividya/OpenAISampleProject"><b>OpenAISampleProject</b></a></td>
 <td>Sample project for a chatbot development</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/github/stars/Shrividya/OpenAISampleProject?style=flat-square&color=gold" alt="stars"/></td>
+<td><img src="https://img.shields.io/github/forks/Shrividya/OpenAISampleProject?style=flat-square&color=blue" alt="forks"/></td>
+<td><img src="https://img.shields.io/github/languages/top/Shrividya/OpenAISampleProject?style=flat-square" alt="language"/></td>
 </tr>
 <td><a href="https://github.com/Shrividya/article-insights-pipeline/tree/main/rag_resume">
  <b>Resume Analyser RAG</b></a></td>
 <td>RAG that answers questions based on the input resumes</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/github/stars/Shrividya/article-insights-pipeline?style=flat-square&color=gold" alt="stars"/></td>
+<td><img src="https://img.shields.io/github/forks/Shrividya/article-insights-pipeline?style=flat-square&color=blue" alt="forks"/></td>
+<td><img src="https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline?style=flat-square&color=blue" alt="forks"/></td>
 </tr>
 </tbody>
 </table>
