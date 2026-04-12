@@ -72,10 +72,10 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-fl2ozbqve-shrividya-hegdes-projects.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true" />
 
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats-fl2ozbqve-shrividya-hegdes-projects.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
 </div>
 
 <!-- GitHub Trophies -->
@@ -302,7 +302,6 @@
 
 <table>
 <tr>
-
 
 <td align="center">
 <img src="https://img.shields.io/badge/📦_Repositories-16-green?style=for-the-badge" alt="Repos"/>
