@@ -45,7 +45,7 @@
 
 🌱 Currently learning **RAGs, Agentic AI, GoLang**
 
-💬 Ask me about **AI/ML, Automation, Python, CI methods, Kubernetes and Docker**
+💬 Ask me about **AI/ML, Test automation, Python, CI methods, Kubernetes and Docker**
 
 🎓 Certifications: **AWS Certified Cloud Practitioner, 5x Apache Airflow certified**
 
@@ -72,15 +72,15 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-tau-nine-15.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true&include_all_commits=true" />
 
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats-beta-eight-76.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats-tau-nine-15.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=merko&hide_border=true&background=0d1117&ring=abd200&fire=abd200&currStreakLabel=abd200" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-xi-topaz.vercel.app?user=Shrividya&theme=merko&hide_border=true&background=0d1117&ring=abd200&fire=abd200&currStreakLabel=abd200" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
@@ -272,7 +272,7 @@
 <td>RAG that answers questions based on the input resumes</td>
 <td><img src="https://img.shields.io/github/stars/Shrividya/article-insights-pipeline?style=flat-square&color=gold" alt="stars"/></td>
 <td><img src="https://img.shields.io/github/forks/Shrividya/article-insights-pipeline?style=flat-square&color=blue" alt="forks"/></td>
-<td><img src="https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline?style=flat-square&color=blue" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
 </tbody>
 </table>
