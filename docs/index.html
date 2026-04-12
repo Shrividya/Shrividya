@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Shrividya Hegde | Senior Software Engineer</title>
+  <title>Shrividya Hegde | Senior Software Engineer | Senior AI Data Engineer</title>
 
   <!-- SEO & Social -->
-  <meta name="description" content="Shrividya Hegde — Senior Software Engineer. AI/ML, Apache Airflow, Test Automation, Python, CI/CD, Kubernetes & Docker. Open to collaboration, mentoring, and speaking." />
-  <meta property="og:title" content="Shrividya Hegde | Senior Software Engineer" />
-  <meta property="og:description" content="AI/ML, Apache Airflow, Test Automation, Python, CI/CD, Kubernetes & Docker. Open to collaboration, mentoring, and speaking." />
+  <meta name="description" content="Shrividya Hegde — Senior Software Engineer, Senior AI Data Engineer, AI/ML, Apache Airflow, dbt, Apache Spark, Automation, Python, CI/CD, Kubernetes & Docker. Open to collaboration, mentoring, and speaking." />
+  <meta property="og:title" content="Shrividya Hegde | Senior Software Engineer | Senior AI Data Engineer" />
+  <meta property="og:description" content="AI/ML, Apache Airflow, Automation, Python, CI/CD, Kubernetes & Docker. Open to collaboration, mentoring, and speaking." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://shrividya.github.io" />
   <meta property="og:site_name" content="Shrividya Hegde" />
@@ -61,28 +61,18 @@
 
     .center { text-align: center; }
 
-    .badges img, .social img { margin: 0.3rem; display: inline-block; vertical-align: middle; }
-    .card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 1.5rem;
-      margin-top: 1.5rem;
-    }
+    .badges img, .social img, .badge-wrap img { margin: 0.25rem; display: inline-block; vertical-align: middle; }
 
     table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-    th, td { border: 1px solid var(--border); padding: 0.7rem; text-align: center; }
+    th, td { border: 1px solid var(--border); padding: 0.7rem; text-align: center; vertical-align: top; }
     th { background: #0f172a; color: var(--heading); }
-
-    .flex { display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; }
-    .flex > div { flex: 1 1 350px; }
 
     footer { text-align: center; padding-bottom: 2rem; font-size: 0.9rem; }
 
-    /* Responsive tweaks */
+    hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+
     @media (max-width: 640px) {
       h1 { font-size: 1.4rem; }
-      .card { padding: 1rem; }
     }
   </style>
 </head>
@@ -90,131 +80,326 @@
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
 
-  <header class="center" role="banner" aria-label="Site header">
-   
+  <!-- HEADER BANNER -->
+  <header role="banner" aria-label="Site header">
     <img
       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:abd200,100:0d1117&height=200&section=header&text=Shrividya%20Hegde&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer&descAlignY=55&descSize=20"
       style="width:100%;height:auto;display:block;"
       loading="eager"
       aria-hidden="true"
     />
-
-    <h1 style="margin: 0.8rem 0 0.2rem 0;">Shrividya Hegde</h1>
-    <p style="margin: 0;">Senior Software Engineer — AI/ML, Apache Airflow, Test Automation</p>
   </header>
 
   <main id="main-content" role="main">
-    <section class="center" aria-labelledby="intro-heading">
-      <h2 id="intro-heading" class="sr-only" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">Introduction</h2>
 
+    <!-- INTRO -->
+    <section class="center">
       <a href="https://github.com/Shrividya" target="_blank" rel="noopener noreferrer" aria-label="View my GitHub profile">
         <img
           src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=800&height=45&lines=12%20years%20of%20test%20%26%20data%20orchestration%20and%20automation%3B%20now%20working%20on%20Generative%20AI%20%26%20RAGs."
-          alt="10+ years of overall experience with passion for Data Engineering and AI"
-          width="900"
-          height="45"
-          style="max-width:100%;height:auto;"
-          loading="lazy"
+          alt="Typing SVG" width="900" height="45"
+          style="max-width:100%;height:auto;" loading="lazy"
         />
       </a>
 
-      <div class="badges" aria-hidden="false" aria-label="Badges">
-        <img src="https://img.shields.io/badge/Focus-Senior-abd200?style=for-the-badge" alt="Focus: Senior badge" loading="lazy"/>
-        <img src="https://img.shields.io/badge/12+_Years-On_GitHub-abd200?style=for-the-badge" alt="12+ years on GitHub badge" loading="lazy"/>
-        <img src="https://komarev.com/ghpvc/?username=Shrividya&style=for-the-badge&color=abd200" alt="Profile visits badge" loading="lazy"/>
+      <!-- PROFILE BADGES -->
+      <div class="badges" aria-label="Badges">
+        <img src="https://img.shields.io/badge/Focus-Senior-abd200?style=for-the-badge" alt="focus" loading="lazy"/>
+        <img src="https://img.shields.io/badge/12+_Years-On_GitHub-abd200?style=for-the-badge" alt="years" loading="lazy"/>
+        <img src="https://komarev.com/ghpvc/?username=Shrividya&style=for-the-badge&color=abd200" alt="views" loading="lazy"/>
       </div>
 
+      <!-- SOCIAL LINKS -->
       <div class="social" role="navigation" aria-label="Social links">
         <a href="https://www.linkedin.com/in/shrividya-hegde-shri-91562365/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" loading="lazy"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" loading="lazy"/>
         </a>
         <a href="https://www.youtube.com/@shrividyahegde3119" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" loading="lazy"/>
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" loading="lazy"/>
         </a>
         <a href="https://medium.com/@shrihegde" target="_blank" rel="noopener noreferrer" aria-label="Medium">
-          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium badge" loading="lazy"/>
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" loading="lazy"/>
         </a>
         <a href="https://substack.com/@shrividyahegde" target="_blank" rel="noopener noreferrer" aria-label="Substack">
-          <img src="https://img.shields.io/badge/Substack-%23white.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack badge" loading="lazy"/>
+          <img src="https://img.shields.io/badge/Substack-%23white.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack" loading="lazy"/>
         </a>
       </div>
     </section>
 
-    <!-- ABOUT -->
+    <hr/>
+
+    <!-- ABOUT ME -->
     <section aria-labelledby="about-heading">
       <h2 id="about-heading">👩‍💻 About Me</h2>
-      <div class="card">
-        <p>🏢 <strong>Astronomer</strong></p>
-        <p>📍 <strong>NJ</strong></p>
-        <p>💼 <strong>10+ years in Automation</strong></p>
-        <p>🔭 Working on <strong>RAGs & Agentic AI</strong></p>
-        <p>💬 Ask me about <strong>Apache Airflow, AI/ML, Test Automation, Python, CI/CD, Kubernetes & Docker</strong></p>
-        <p>🎓 AWS Cloud Practitioner · 3× Apache Airflow Certified </p>
-        <p>💎 Pro Member of Women In Data </p>
-        <p>⭐ Recognitions: <a href="https://www.astronomer.io/champions/" target="_blank" rel="noopener noreferrer">Astronomer Champion for Apache Airflow →</a></p>
+      <p>🏢 <strong>Astronomer</strong></p>
+      <p>📍 <strong>NJ</strong></p>
+      <p>💼 <strong>10+ years experience in Software Engineering</strong></p>
+      <p>🌱 Currently learning <strong>RAGs, Agentic AI, GoLang</strong></p>
+      <p>💬 Ask me about <strong>AI/ML, Test automation, Python, CI methods, Kubernetes and Docker</strong></p>
+      <p>🎓 Certifications: <strong>AWS Certified Cloud Practitioner, 5x Apache Airflow certified</strong></p>
+      <p>💎 Memberships: Pro Member of <strong>Women in Data</strong>, member of <strong>Women in Tech</strong></p>
+      <p>🏆 Recognitions: Astronomer Champion for Apache Airflow, Open source Contributor (Apache Airflow)</p>
+
+      <h3>🤝 Open For</h3>
+      <div class="badge-wrap">
+        <img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring" loading="lazy"/>
+        <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration" loading="lazy"/>
+        <img src="https://img.shields.io/badge/🎤_Speaking-Interested-purple?style=for-the-badge" alt="Speaking" loading="lazy"/>
+        <img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring" loading="lazy"/>
       </div>
     </section>
+
+    <hr/>
 
     <!-- GITHUB ANALYTICS -->
     <section class="center" aria-labelledby="github-heading">
       <h2 id="github-heading">🔥 GitHub Analytics</h2>
       <img
         src="https://github-readme-stats-beta-eight-76.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"
-        alt="GitHub stats card"
-        height="180"
-        style="max-width:100%;height:auto;"
-        loading="lazy"
+        alt="GitHub stats card" height="180" style="max-width:100%;height:auto;" loading="lazy"
       />
       <img
         src="https://github-readme-stats-beta-eight-76.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff"
-        alt="Top languages card"
-        height="180"
-        style="max-width:100%;height:auto;"
-        loading="lazy"
+        alt="Top languages card" height="180" style="max-width:100%;height:auto;" loading="lazy"
       />
       <br/><br/>
-      <img src="https://github-readme-streak-stats-sable-eta.vercel.app?user=Shrividya&theme=radical&hide_border=true" alt="GitHub streak" loading="lazy"/>
+      <img src="https://github-trophies.vercel.app/?username=Shrividya" alt="Trophy" loading="lazy"/>
     </section>
+
+    <hr/>
+
+    <!-- TECH STACK -->
+    <section aria-labelledby="techstack-heading">
+      <h2 id="techstack-heading">🔧 Tech Stack</h2>
+
+      <table>
+        <tr>
+          <td valign="top" width="50%">
+            <h3 align="center">📊 Data Engineering &amp; Analytics</h3>
+            <div class="center badge-wrap">
+              <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="airflow" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Astronomer-1E90FF?style=for-the-badge&logo=astronomer&logoColor=white" alt="astronomer" loading="lazy"/>
+              <img src="https://img.shields.io/badge/ClickHouse-FF6D00?style=for-the-badge&logo=clickhouse&logoColor=white" alt="clickhouse" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Databricks-F15C29?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Snowflake-009FE3?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake" loading="lazy"/>
+              <img src="https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" loading="lazy"/>
+              <img src="https://img.shields.io/badge/ETL-Purple?style=for-the-badge" alt="etl" loading="lazy"/>
+              <img src="https://img.shields.io/badge/DBT-FF4C00?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Vectors-6A1B9A?style=for-the-badge" alt="vectors" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Embeddings-8E24AA?style=for-the-badge" alt="embeddings" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Data_Lakes-2E7D32?style=for-the-badge" alt="data lakes" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Data_Warehousing-1976D2?style=for-the-badge" alt="data warehousing" loading="lazy"/>
+            </div>
+          </td>
+          <td valign="top" width="50%">
+            <h3 align="center">🤖 Machine Learning &amp; Generative AI</h3>
+            <div class="center badge-wrap">
+              <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="genai" loading="lazy"/>
+              <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" loading="lazy"/>
+              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" loading="lazy"/>
+              <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" loading="lazy"/>
+              <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" loading="lazy"/>
+              <img src="https://img.shields.io/badge/LangChain-20B3D0?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" loading="lazy"/>
+              <img src="https://img.shields.io/badge/NLP-FF6600?style=for-the-badge" alt="nlp" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Vectors-6A1B9A?style=for-the-badge" alt="vectors" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Embeddings-8E24AA?style=for-the-badge" alt="embeddings" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" alt="transformers" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Prompt_Engineering-9C27B0?style=for-the-badge" alt="prompt engineering" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Generative_Models-1E88E5?style=for-the-badge" alt="generative models" loading="lazy"/>
+              <img src="https://img.shields.io/badge/LLMs-FF4081?style=for-the-badge" alt="llms" loading="lazy"/>
+            </div>
+          </td>
+        </tr>
+      </table>
+
+      <table style="margin-top:1rem;">
+        <tr>
+          <td valign="top" width="33%">
+            <h3 align="center">🧪 Testing &amp; QA</h3>
+            <div class="center badge-wrap">
+              <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" loading="lazy"/>
+              <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="webdriverio" loading="lazy"/>
+              <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit" loading="lazy"/>
+              <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng" loading="lazy"/>
+              <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber" loading="lazy"/>
+              <img src="https://img.shields.io/badge/SpecFlow-7B3399?style=for-the-badge&logo=specflow&logoColor=white" alt="specflow" loading="lazy"/>
+              <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" loading="lazy"/>
+              <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Locust-006600?style=for-the-badge&logo=locust&logoColor=white" alt="locust" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" alt="appium" loading="lazy"/>
+              <img src="https://img.shields.io/badge/XCUITest-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="xcuitest" loading="lazy"/>
+              <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure" loading="lazy"/>
+              <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports" loading="lazy"/>
+            </div>
+          </td>
+          <td valign="top" width="33%">
+            <h3 align="center">💻 Development</h3>
+            <div class="center badge-wrap">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" loading="lazy"/>
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" loading="lazy"/>
+              <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" loading="lazy"/>
+              <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" loading="lazy"/>
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" loading="lazy"/>
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" loading="lazy"/>
+              <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" loading="lazy"/>
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" loading="lazy"/>
+              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" loading="lazy"/>
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" loading="lazy"/>
+            </div>
+          </td>
+          <td valign="top" width="33%">
+            <h3 align="center">⚙️ DevOps &amp; Tools</h3>
+            <div class="center badge-wrap">
+              <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" loading="lazy"/>
+              <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions" loading="lazy"/>
+              <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" loading="lazy"/>
+              <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="circleci" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" loading="lazy"/>
+              <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" loading="lazy"/>
+              <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure" loading="lazy"/>
+              <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp" loading="lazy"/>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </section>
+
+    <hr/>
 
     <!-- FEATURED PROJECTS -->
-    <section aria-labelledby="featured-heading">
-      <h2 id="featured-heading">🚀 Featured Projects</h2>
-      <div class="card" role="article" aria-label="OpenAISampleProject">
-        <h3>OpenAISampleProject</h3>
-        <p>Sample chatbot project using OpenAI APIs</p>
-        <a href="https://github.com/Shrividya/OpenAISampleProject" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+    <section aria-labelledby="projects-heading">
+      <h2 id="projects-heading">⭐ Featured Projects</h2>
+      <div class="center">
+        <h3>🚀 Article Insights Pipeline</h3>
+        <img src="https://img.shields.io/github/stars/Shrividya/article-insights-pipeline?style=flat" alt="Stars" loading="lazy"/>
+        <img src="https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline" alt="Language" loading="lazy"/>
+        <img src="https://img.shields.io/github/last-commit/Shrividya/article-insights-pipeline" alt="Last Commit" loading="lazy"/>
+        <p>🔗 <a href="https://github.com/Shrividya/article-insights-pipeline" target="_blank" rel="noopener noreferrer">github.com/Shrividya/article-insights-pipeline</a></p>
+
+        <h3>🚀 SentimentAnalysis</h3>
+        <img src="https://img.shields.io/github/stars/Shrividya/SentimentAnalysis?style=flat" alt="Stars" loading="lazy"/>
+        <img src="https://img.shields.io/github/languages/top/Shrividya/SentimentAnalysis" alt="Language" loading="lazy"/>
+        <img src="https://img.shields.io/github/last-commit/Shrividya/SentimentAnalysis" alt="Last Commit" loading="lazy"/>
+        <p>🔗 <a href="https://github.com/Shrividya/SentimentAnalysis" target="_blank" rel="noopener noreferrer">github.com/Shrividya/SentimentAnalysis</a></p>
       </div>
 
-      <div class="card" role="article" aria-label="SentimentAnalysis">
-        <h3>SentimentAnalysis</h3>
-        <p>Python-based sentiment analysis practice project</p>
-        <a href="https://github.com/Shrividya/SentimentAnalysis" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
-      </div>
+      <h3>📊 Top Repositories</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>🚀 Project</th>
+            <th>📝 Description</th>
+            <th>⭐ Stars</th>
+            <th>🍴 Forks</th>
+            <th>💻 Language</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Shrividya/SentimentAnalysis" target="_blank" rel="noopener noreferrer"><strong>SentimentAnalysis</strong></a></td>
+            <td>Practice project for Sentiment Analysis using Python</td>
+            <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language" loading="lazy"/></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Shrividya/article-insights-pipeline" target="_blank" rel="noopener noreferrer"><strong>Article Insights Pipeline</strong></a></td>
+            <td>Project that analyses medium articles using NLP</td>
+            <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language" loading="lazy"/></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Shrividya/OpenAISampleProject" target="_blank" rel="noopener noreferrer"><strong>OpenAISampleProject</strong></a></td>
+            <td>Sample project for a chatbot development</td>
+            <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language" loading="lazy"/></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Shrividya/article-insights-pipeline/tree/main/rag_resume" target="_blank" rel="noopener noreferrer"><strong>Resume Analyser RAG</strong></a></td>
+            <td>RAG that answers questions based on the input resumes</td>
+            <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks" loading="lazy"/></td>
+            <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language" loading="lazy"/></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="center"><i>💡 Total of <strong>4</strong> repositories</i></p>
     </section>
 
-    <!-- CONNECT -->
+    <hr/>
+
+    <!-- ACHIEVEMENTS -->
+    <section aria-labelledby="achievements-heading">
+      <h2 id="achievements-heading">🏆 Achievements</h2>
+      <table>
+        <thead>
+          <tr><th>🏆 Achievement</th><th>📊 Status</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>🎖️ 10+ Years on GitHub</td><td>✅ Unlocked</td></tr>
+          <tr><td>💻 Python Expert</td><td>✅ Unlocked</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <hr/>
+
+    <!-- PROFILE SUMMARY -->
+    <section class="center" aria-labelledby="summary-heading">
+      <h2 id="summary-heading">🚀 Profile Summary</h2>
+      <img src="https://img.shields.io/badge/📦_Repositories-16-green?style=for-the-badge" alt="Repos" loading="lazy"/>
+      <img src="https://img.shields.io/badge/📅_Years_Active-12+-orange?style=for-the-badge" alt="Years" loading="lazy"/>
+    </section>
+
+    <hr/>
+
+    <!-- LET'S CONNECT -->
     <section class="center" aria-labelledby="connect-heading">
-      <h2 id="connect-heading">🤝 Let's Connect</h2>
-      <p>I'm always open to collaboration, mentoring, and speaking opportunities.</p>
-
-      <a href="https://www.linkedin.com/in/shrividya-hegde-shri-91562365/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" loading="lazy"/>
-      </a>
-      <a href="https://www.youtube.com/@shrividyahegde3119" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" loading="lazy"/>
-      </a>
-      <a href="https://medium.com/@shrihegde" target="_blank" rel="noopener noreferrer" aria-label="Medium">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium badge" loading="lazy"/>
-      </a>
-      <a href="https://substack.com/@shrividyahegde" target="_blank" rel="noopener noreferrer" aria-label="Substack">
-        <img src="https://img.shields.io/badge/Substack-%23white.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack badge" loading="lazy"/>
-      </a>
+      <h2 id="connect-heading">🤝 Let's Connect!</h2>
+      <p><strong>I'm always interested in collaborating on exciting projects!</strong></p>
+      <div class="social" role="navigation" aria-label="Social links">
+        <a href="https://www.linkedin.com/in/shrividya-hegde-shri-91562365/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" loading="lazy"/>
+        </a>
+        <a href="https://www.youtube.com/@shrividyahegde3119" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" loading="lazy"/>
+        </a>
+        <a href="https://medium.com/@shrihegde" target="_blank" rel="noopener noreferrer" aria-label="Medium">
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" loading="lazy"/>
+        </a>
+        <a href="https://substack.com/@shrividyahegde" target="_blank" rel="noopener noreferrer" aria-label="Substack">
+          <img src="https://img.shields.io/badge/Substack-%23white.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack" loading="lazy"/>
+        </a>
+      </div>
+      <p>📫 <strong>Reach out</strong> — I'd love to hear from you!</p>
     </section>
+
   </main>
 
   <footer class="center" role="contentinfo">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:abd200,100:0d1117&height=120&section=footer" alt="" width="100%" style="display:block;height:auto;" loading="lazy" aria-hidden="true"/>
     <p>⭐ From <a href="https://github.com/Shrividya" target="_blank" rel="noopener noreferrer">Shrividya</a> with ❤️</p>
   </footer>
+
 </body>
 </html>
