@@ -72,7 +72,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-nine-henna-dzy5zi241l.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fl2ozbqve-shrividya-hegdes-projects.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true" />
 
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats-nine-henna-dzy5zi241l.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
