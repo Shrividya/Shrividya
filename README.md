@@ -37,8 +37,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-🏢 **Astronomer**
-
 📍 **NJ**
 
 💼 **10+ years experience in Software Engineering**
