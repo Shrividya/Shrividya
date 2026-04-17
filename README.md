@@ -41,8 +41,6 @@
 
 💼 **10+ years experience in Software Engineering**
 
-🌱 Currently learning **RAGs, Agentic AI, GoLang**
-
 💬 Ask me about **AI/ML, Test automation, Python, CI methods, Kubernetes and Docker**
 
 🎓 Certifications: **AWS Certified Cloud Practitioner, 5x Apache Airflow certified**
