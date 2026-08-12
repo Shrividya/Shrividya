@@ -128,7 +128,6 @@
   <img height="180em" src="https://github-readme-stats-gilt-nine-51.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-gilt-nine-51.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
 </div>
-
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Shrividya" alt="Trophy"/>
 </div>
