@@ -120,6 +120,21 @@
 
 </div>
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-gilt-nine-51.vercel.app/api?username=Shrividya&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-gilt-nine-51.vercel.app/api/top-langs?username=Shrividya&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Shrividya" alt="Trophy"/>
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
 
 <table>
