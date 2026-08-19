@@ -74,7 +74,7 @@
 
 📍 **NJ / NY** (Remote)
 
-💼 **10+ years experience in Data Engineering, MLOps & AI Pipeline Development**
+💼 **Data Engineering, MLOps & AI Pipeline Development**
 
 🏆 **Apache Airflow Champion** (Astronomer, Jan 2026) · **7+ merged PRs** to Apache Airflow OSS
 
