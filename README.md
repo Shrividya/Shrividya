@@ -259,10 +259,10 @@ RAG pipeline that answers questions based on input resumes using LLMs and vector
 
 ---
 
-### 💬 OpenAI Sample Project
-Sample chatbot development project using OpenAI API.
+### 💬 Data Analytics Agent that uses Duckdb and LLM
+Natural-language data analyst agent: LLM answers questions by writing and running SQL against a read-only DuckDB database of the Olist e-commerce dataset, with logging and SQL-based evals.
 
-🔗 https://github.com/Shrividya/OpenAISampleProject
+🔗 https://github.com/Shrividya/duckdbAgents
 
 ---
 
