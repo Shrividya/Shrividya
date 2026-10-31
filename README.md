@@ -315,11 +315,11 @@ Sentiment analysis practice project using Python and NLP.
 <td><img src="https://img.shields.io/github/languages/top/Shrividya/article-insights-pipeline?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Shrividya/OpenAISampleProject"><b>OpenAISampleProject</b></a></td>
-<td>Sample project for chatbot development</td>
-<td><img src="https://img.shields.io/github/stars/Shrividya/OpenAISampleProject?style=flat-square&color=blue" alt="stars"/></td>
-<td><img src="https://img.shields.io/github/forks/Shrividya/OpenAISampleProject?style=flat-square" alt="forks"/></td>
-<td><img src="https://img.shields.io/github/languages/top/Shrividya/OpenAISampleProject?style=flat-square" alt="language"/></td>
+<td><a href="https://github.com/Shrividya/OpenAISampleProject"><b>Duckdb agent</b></a></td>
+<td>Agent for Data analysis</td>
+<td><img src="https://img.shields.io/github/stars/Shrividya/duckdbAgents?style=flat-square&color=blue" alt="stars"/></td>
+<td><img src="https://img.shields.io/github/forks/Shrividya/duckdbAgents?style=flat-square" alt="forks"/></td>
+<td><img src="https://img.shields.io/github/languages/top/Shrividya/duckdbAgents?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Shrividya/SentimentAnalysis"><b>SentimentAnalysis</b></a></td>
