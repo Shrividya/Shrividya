@@ -31,7 +31,7 @@
 <!-- Twitter / X Card -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Shrividya Hegde | Senior AI Data Engineer | Apache Airflow Champion" />
-<meta name="twitter:description" content="Senior AI Data Engineer · Apache Airflow Champion · OSS Contributor (7+ PRs) · RAG & LLM Pipelines · dbt · Snowflake · Databricks · Women in Data NJ Chapter Lead" />
+<meta name="twitter:description" content="Senior AI Data Engineer · Apache Airflow Champion · OSS Contributor (7+ PRs) · RAG & LLM Pipelines · dbt · Snowflake · Databricks · WiD Atlanta Chapter Lead · WiD NJ Chapter Lead· WiBD Chapter Director" />
 <meta name="twitter:site" content="@shrividyahegde" />
 <meta name="twitter:creator" content="@shrividyahegde" />
 
@@ -72,7 +72,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-📍 **NJ / NY** (Remote)
+📍 ** Atlanta , Georgia **
 
 💼 **Data Engineering, MLOps & AI Pipeline Development**
 
